@@ -1,7 +1,7 @@
 # credit_ml_study
 
 ## Introduction 
-This is a machine learning project that is being used as study purposes. The main goal of this repository is to understand the usability of Machine Learning script decisions within credit and financial subjects, analizing it's accuracy and how it could be used in real problem solving.
+This is a machine learning project that is being used with study purposes. The main goal of this repository is to understand the usability of Machine Learning script decisions within credit and financial subjects, analizing it's accuracy and how it could be used in real problem solving.
 
 The code script was written in Python (Jupyter Notebook) and i have used Sci-Kit Learn, pandas and matplotlib as the main technologies. The database i am using is a CC0 license CSV found at Kaggle (https://www.kaggle.com/datasets/sid321axn/south-german-credit-updated) and it is also study intended, even though it is based on real credit data.
 
